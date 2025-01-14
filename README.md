@@ -1,4 +1,4 @@
-# K-means Clustering
+# K-means Clustering Algorithm
 # Machine Learning algorithms are categorized into three main categories : Supervised , Unsupervised and reinforcement learning. In supervised learning,in the given data set you have your class label or a target variable present and In unsupervised learning, all you have is set of features,you don't know about your target variable or a class label.So, usinf this data set we try to identify the underlying structure in that data or we sometimes try to find the clusters in that data and we can make useful predictions out of it.
 # 1. Start with K centroids by putting them at random place,say k=2
 # 2. Compute distance of every point from centroid and cluster them accordingly.
